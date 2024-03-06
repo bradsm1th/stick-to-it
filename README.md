@@ -1,4 +1,4 @@
-Welcome to Stick-To-It presented by Brad, Nathanael, and Melissa
+Welcome to Stick-To-It, presented by Brad, Nathanael, and Melissa
 
 <img src="https://i.imgur.com/BpcZriS.png" width="50%" height="50%" alt="STICK TO IT LOGO Placeholder">
 
